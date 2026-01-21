@@ -16,7 +16,7 @@ Produkcja muzyczna, sound design, identyfikacja dźwiękowa – od pomysłu do f
 ---
 
 ## 🌐 Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hexit.carrd.co/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hexitrely.pl/)
 [![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@HexitRely)
 [![Spotify](https://img.shields.io/badge/Spotify-000?style=for-the-badge&logo=spotify)](https://open.spotify.com/artist/4hcXADTFvPXtRxVTGYXW4I)
 
